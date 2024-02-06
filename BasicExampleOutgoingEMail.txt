@@ -1,0 +1,76 @@
+RCPT TO:<ed@woowho.net>
+RCPT TO:<bit-bucket@test.smtp.org>
+DATA
+X-List: EWMSENT
+To:<bit-bucket@test.smtp.org>
+From: "EW Marshall PE" <e.marshall@ewmpe.com>
+Subject: Raw template 
+:Attachment: NONE
+
+Regular mark down mark down text up front    
+Use multiple spaces for a new line.    
+Easy, breezy.   
+
+Italicized text is the <em>cat's meow</em>.   
+E=MC<sup>2</sup>  
+Plants need CO<sub>2</sub>  
+
+In his beard lived three <span style="color:red">cardinals</span>.  
+And these even include several lines. 
+
+- This is some basic, sample markdown.
+- This is some basic, sample markdown.
+- This is some basic, sample markdown.
+
+Best regards, Ed
+QUIT
+=========================================================================================
+::: 
+::: --> /hub/Gen/Email/EmailEngineUltraSMTPOpenSSLGen4.sh
+::: --> *** DOWNGRADED *** /hub/Gen/Email/WorkingSendBlueOpenSSLGen4.sh 
+::: 
+::: 
+::: Addresses ---
+::: RCPT TO:<bit-bucket@test.smtp.org>
+::: RCPT TO:<8582769283@txt.att.net>
+::: RCPT TO:<bburke@bbmr.com>
+::: RCPT TO:<bburke@bbmr.com -cc:tmcdonald@mammothresorts.com -cc:tandcmcdonald@verizon.net>
+::: RCPT TO:<beau@stokerinc.com>
+::: RCPT TO:<c38462@hotmail.com>
+::: RCPT TO:<caddworks@hotmail.com>
+::: RCPT TO:<chad@stokerinc.com>
+::: RCPT TO:<eddieetter@hotmail.com>
+::: RCPT TO:<ewmpe@protonmail.com>
+::: RCPT TO:<emarshall@posteo.net>
+::: RCPT TO:<ew.marshall@yandex.com>
+::: RCPT TO:<info@bigbearprinting.com>
+::: RCPT TO:<info@brother.com>
+::: RCPT TO:<jgarcia@cheers.org>
+::: RCPT TO:<jrthomes760@gmail.com  >
+::: RCPT TO:<maliamarshall@me.com>
+::: RCPT TO:<manny@imperialtrussandlumber.com>
+::: RCPT TO:<mark@stokerinc.com>
+::: RCPT TO:<mdesignandassociates@outlook.com>
+::: RCPT TO:<nathan@shieldsresidential.com>
+::: RCPT TO:<nailaduck@aol.com>
+::: RCPT TO:<pcrisler@scripps.edu>
+::: RCPT TO:<planchonreogroup@aol.com>
+::: RCPT TO:<removeemail@blackice.com>
+::: RCPT TO:<richardschaeferdesign@gmail.com>
+::: RCPT TO:<ronnie@mailinator.com>
+::: RCPT TO:<stephen_marshall@mac.com>
+::: RCPT TO:<steven@shieldsresidential.com>
+::: RCPT TO:<steven@shieldsresidential.com -to:nathan@shieldsresidential.com -to:mdesignandassociates@outlook.com>
+::: RCPT TO:<tandcmcdonald@verizon.net>
+::: RCPT TO:<ron@teamkoptis.com>
+::: RCPT TO:<tito@mailinator.com>
+::: RCPT TO:<tmcdonald@bbmr.com>
+::: RCPT TO:<tracy@woowho.net>
+::: RCPT TO:<zo@mailinator.com>
+::: ===================================================
+::: 
+::: Stock phrases
+::: Signature=\nbest regards,\n       E.W. Marshall PE
+::: Signature=\nbest, Ed
+::: Signature=\nbest, Ed (and Tracy!)
+::: Signature=\nSmoothies!

@@ -1,0 +1,3 @@
+EHLO ewmpe.com-xxxxxOLD
+AUTH PLAIN AGUubWFyc2hhbGxAZXdtcGUuY29tAEEyelZDbkp5
+MAIL FROM: e.marshall@ewmpe.com 
